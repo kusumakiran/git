@@ -1,0 +1,21 @@
+/* element  selevvtors*/
+h1{
+    color:rgb(69, 177, 204);
+}
+/*group selector*/
+h2 ,h3 {
+    color:grey
+}
+/*id selector*/
+#first {
+    color:azure
+}
+/*clas selector*/
+.second{
+    color:bisque
+}
+/*universe selectors*/
+*{
+    text-align: center;
+
+}

@@ -1,0 +1,41 @@
+header {
+    background-color: lightsteelblue;
+    font-family:'Gill Sans MT';
+    text-align: center;
+    padding: 40px 30px;
+    margin-top:auto ;
+}
+nav {
+    background-color: darkkhaki;
+    padding: 30px 40px;
+    margin-right:auto;
+    height:fit-content;
+    width: fit-content;
+}
+   
+ nav ul {
+    list-style-type:none;
+    
+ }
+nav ul li {
+    background-color: darkkhaki;
+    padding: 10px 10px ;
+    margin-top: 10px 10px;
+}
+nav ul li a {
+    text-decoration: none;
+}
+section::after {
+    display: table;
+    content:"";
+    clear: both;
+}
+footer{
+    float: left;
+    background-color: chartreuse;
+
+}
+article {
+    float: left;
+    background-color: rgb(0, 153, 255);
+}

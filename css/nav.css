@@ -1,0 +1,22 @@
+header{
+    background-color:black;
+    height:70px;
+    text-align:center;
+    padding:10px;
+    font-size:50px;
+}
+nav{
+    width:15%;
+    background-color:grey;
+    font-size:25px;
+    height:250px;
+    padding: 80px;
+    padding-left:70px;
+
+}
+nav ul{
+    list-style-type:none;
+}
+nav ul li a{
+    text-decoration: none;
+}
